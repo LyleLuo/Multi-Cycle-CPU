@@ -1,0 +1,20 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/1/Desktop/mCPU/mCPU.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sim_1/new/sim.v,1576772817,verilog,,,,sim,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/ALU.v,1575735857,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Adder.v,,ALU,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Adder.v,1575711698,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/ControlUnit.v,,Adder,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/ControlUnit.v,1576774603,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/DataMem.v,,ControlUnit,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/DataMem.v,1575711036,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Extend.v,,DataMem,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Extend.v,1575711793,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/InsMem.v,,Extend,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/InsMem.v,1577117159,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/LeftShift.v,,InsMem,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/LeftShift.v,1575711845,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Mux_2.v,,LeftShift_2,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Mux_2.v,1575711752,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Mux_3.v,,Mux_2,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Mux_3.v,1575712580,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Mux_4.v,,Mux_3,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/Mux_4.v,1575712712,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/PC.v,,Mux_4,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/PC.v,1575710902,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/RegisterFile.v,,PC,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/RegisterFile.v,1577006049,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/mCPU.v,,RegisterFile,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/mCPU.v,1576772836,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/tempReg.v,,mCPU,,,,,,,,
+C:/Users/1/Desktop/mCPU/mCPU.srcs/sources_1/new/tempReg.v,1575776170,verilog,,C:/Users/1/Desktop/mCPU/mCPU.srcs/sim_1/new/sim.v,,tempReg,,,,,,,,
